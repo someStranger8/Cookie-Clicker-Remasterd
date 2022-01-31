@@ -7,6 +7,7 @@ title Cookie Clicker Remasterd (OwO)
 :: username 
 color 5a
 set /p user="enter username: "
+cls
 
 :: score
 set /A thing=0
