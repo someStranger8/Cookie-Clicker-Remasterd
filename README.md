@@ -3,4 +3,4 @@
 idk but it works lol
 
 ## TODO
-  * linu version
+  * linux and mac os version
